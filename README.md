@@ -2,6 +2,10 @@
 
 A Sand Playground built using THREE.js and LilGui
 
+view it here: https://maxizek30.github.io/sand-playground/
+
+read about it here: https://maxizek30.me/portfolio/sand-playground
+
 ## Getting Started
 
 1. Install dependencies: `npm install`
@@ -11,6 +15,3 @@ A Sand Playground built using THREE.js and LilGui
 The port number is configured in `package.json`. The source code is in `src/main.ts`.
 
 To stop the development server, type CTRL-C in the terminal.
-
-**Created by Max Lopez,
-05/20/2024**
