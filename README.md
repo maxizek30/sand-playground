@@ -4,8 +4,6 @@ A Sand Playground built using THREE.js and LilGui
 
 view it here: https://maxizek30.github.io/sand-playground/
 
-read about it here: https://maxizek30.me/portfolio/sand-playground
-
 ## Getting Started
 
 1. Install dependencies: `npm install`
